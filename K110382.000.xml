@@ -88,7 +88,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <figure/>
+            <p>
+               <pb facs="tcp:0647000300:1" rendition="simple:additions"/>
+               <figure/>
+            </p>
             <p>
                <pb facs="tcp:0647000300:2"/>
 THE PROGRESS <hi>of</hi> WIT: A CAVEAT. FOR THE Uſe of an Eminent Writer.</p>
